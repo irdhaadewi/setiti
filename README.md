@@ -1,1 +1,1 @@
-9_10 is the main do file. the dataset is on excel, do convert it manually
+9_10 is the main do file. the dataset is on excel, do convert it manually or use SETITITI.dta
